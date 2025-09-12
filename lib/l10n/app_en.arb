@@ -1,0 +1,18 @@
+{
+  "@@locale": "en",
+  "reportIssue": "Report an Issue",
+  "describeIssue": "Describe your issue...",
+  "send": "Send",
+  "sosEmergency": "🚨 SOS Emergency",
+  "sosMessage": "Your emergency alert has been sent to the nearest Krishi Sakhi center!",
+  "ok": "OK",
+  "newsAlerts": "News & Alerts",
+  "annadataProfile": "Annadata Profile",
+  "name": "Name",
+  "landSize": "Land Size",
+  "location": "Location",
+  "saveChanges": "Save Changes",
+  "yourCrops": "Your Crops",
+  "addNewCrop": "Add new crop",
+  "marketPricesKerala": "Market Prices (Kerala)"
+}
